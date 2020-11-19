@@ -8,7 +8,6 @@
 127.0.0.1 alog.umeng.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.cupid.ptqy.gitv.tv
-127.0.0.1 api.io.mi.com
 127.0.0.1 assistant.pandora.xiaomi.com
 127.0.0.1 auth.api.gitv.tv
 127.0.0.1 b.netcheck.gallery.pandora.xiaomi.com
@@ -34,7 +33,6 @@
 127.0.0.1 gallery.pandora.xiaomi.com
 127.0.0.1 gvod.aiseejapp.atianqi.com
 127.0.0.1 jellyfish.pandora.xiaomi.com
-127.0.0.1 localhost
 127.0.0.1 logonext.tv.kuyun.com
 127.0.0.1 market.xiaomi.com
 127.0.0.1 metok.sys.miui.com
@@ -42,7 +40,6 @@
 127.0.0.1 misc.pandora.xiaomi.com
 127.0.0.1 mishop.pandora.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
-127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 omgmta.play.aiseet.atianqi.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -69,7 +66,5 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 tv.aiseet.atianqi.com
 127.0.0.1 tvapi.kuyun.com
-127.0.0.1 upgrade.mishop.pandora.xiaomi.com
 127.0.0.1 v.admaster.com.cn
-127.0.0.1 vv.play.aiseet.atianqi.com
-127.0.0.1 XiaoQiang
+
